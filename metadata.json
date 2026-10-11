@@ -1,0 +1,10 @@
+{
+  "name": "OmniPulse - Multi-AI Chat & Activity Tracker",
+  "description": "Live automatic step counter and GPS location tracker with personal activity logging, plus a multi-AI lounge to chat with Gemini, ChatGPT, Meta AI, and Grok.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
